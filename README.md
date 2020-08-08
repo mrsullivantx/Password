@@ -1,4 +1,4 @@
-# Foobar
+# Password
 
 Random Password Generator Homework.
 
